@@ -1,0 +1,12 @@
+# Ignore large files
+*.zip
+*.wav
+*.mp3
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
